@@ -1,0 +1,66 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-datepicker": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-datetimepicker": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-filechooser": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-filepath": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-native-transitions": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-opentok": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.healthapp.doctor"
+    }
+  },
+  "dependent_plugins": {}
+}

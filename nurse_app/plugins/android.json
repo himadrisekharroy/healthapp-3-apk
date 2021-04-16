@@ -1,0 +1,66 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-datepicker": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-datetimepicker": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-filechooser": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-filepath": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-native-transitions": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-opentok": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.healthapp.nurse"
+    }
+  },
+  "dependent_plugins": {}
+}
