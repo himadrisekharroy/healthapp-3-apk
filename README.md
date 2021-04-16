@@ -3,3 +3,4 @@ Health app with 3 different apk for doctor nurse and patient. The project is dev
 Please build three different apks for three type of users.
 for server amd api's please check the health app repo
 the server side application build in PHP- mysql.
+please check the url for app username and password http://www.demo.ritzcybernetics.com/health_app/
